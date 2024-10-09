@@ -60,7 +60,9 @@ while True:
 
 ¿Dónde recortar como método?
 Todo el código consiste en sentencias if, pero el código es largo, con sentencias condicionales dentro de sentencias condicionales.
-Para que la sentencia if sea más fácil de entender, reorganicémosla de la siguiente manera.
+Para que la sentencia if sea más fácil de entender, reorganicémosla de la siguiente manera
+
+
 if num == 1:
     # llamada al método
 elif num == 2:
@@ -70,6 +72,7 @@ elif num == 3:
     break
 else:
     print('Introduzca un número del 1 al 3')
+
 
 
 Piense en un nombre que facilite la comprensión del tipo de procesamiento que está realizando, defina un método y llámelo.
