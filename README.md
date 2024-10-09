@@ -1,13 +1,16 @@
 ## Tarea Refactorización de PythonRefactorización de Python
-#1. Versión recomendada
+
+# 1. Versión recomendada
 Al enviar una tarea, envíela en la siguiente versión:
 Python 3.9.7
-#2. Propósito de la Asignación de la Serie de Gramática Básica de Python
+
+# 2. Propósito de la Asignación de la Serie de Gramática Básica de Python
 Las asignaciones de series son para determinar si ha logrado los objetivos de la serie.
 Objetivos de la serie Gramática básica de Python
 Ser capaz de escribir programas comprendiendo los objetos del mundo de Python
 Aprenda gramática y métodos básicos que le servirán de base para adentrarse en el desarrollo a gran escala.
-#3. Problema: dividamos el programa del tablón de anuncios en métodos
+
+# 3. Problema: dividamos el programa del tablón de anuncios en métodos
 Modifiquemos el programa anterior y dividámoslo en métodos.
 El código anterior es el siguiente.
 
@@ -76,7 +79,8 @@ else:
 
 
 Piense en un nombre que facilite la comprensión del tipo de procesamiento que está realizando, defina un método y llámelo.
-#4. Requisitos de aprobación
+
+# 4. Requisitos de aprobación
 Hay que definir nuevos métodos y dividir el proceso.
 Los nombres de los métodos deben nombrarse en relación con el proceso.
 Cuando se introduce una opción distinta de 1 a 3 para la selección del proceso a realizar, aparece el mensaje "Por favor, introduzca del 1 a 3" y se ejecutará el proceso para volver a realizar la elección.
@@ -84,6 +88,7 @@ Si se introduce un valor distinto de 1 a 5 para un punto de valoración, aparece
 Poder introducir puntos de evaluación y comentarios.
 Poder comprobar los resultados hasta la fecha.
 Poder finalizar el proceso.
-#5. Método de presentación.
+
+# 5. Método de presentación.
 Envía la URL del repositorio de GitHub.
 
